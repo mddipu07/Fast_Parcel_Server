@@ -32,9 +32,3 @@ A powerful and scalable backend REST API built with **Express.js** and **MongoDB
 
 ---
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/first-delivery-server.git
-cd first-delivery-server
-npm install
