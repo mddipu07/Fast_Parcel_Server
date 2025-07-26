@@ -3,7 +3,7 @@
 A powerful and scalable backend REST API built with **Express.js** and **MongoDB** for the **First Delivery** parcel delivery platform. Secure authentication, role-based access, and Stripe payments are fully supported.
 
 ---**Server** **Live** : (https://fast-parcel-server.vercel.app/)
-
+--- ![Home Page]()
 ## ✨ Features
 
 - 🔐 **Firebase Authentication**
@@ -11,7 +11,6 @@ A powerful and scalable backend REST API built with **Express.js** and **MongoDB
 - 🧑‍💼 **User & Admin Role Management**
 - 📦 **Parcel Management (CRUD)**
 - 🛵 **Rider Application System**
-- 🌍 **Area & Zone Coverage API**
 - 💳 **Stripe Payment Integration**
 - 🧾 **Order History & Tracking**
 - 🔒 **Secure Middleware with CORS**
